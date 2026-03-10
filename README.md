@@ -1,4 +1,4 @@
-# 박준모 | Backend Developer, Aspiring Polyglot Full-stack Architect
+# Backend Developer, Aspiring Polyglot Full-stack Architect
 
 > **"모르면 커피를 사주며 물어보고, 키워드를 적어놓고, 따로 찾아보고, 습득할 때까지 반복한다."**
 
